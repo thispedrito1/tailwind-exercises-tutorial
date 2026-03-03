@@ -1,25 +1,25 @@
 {
-    "slug": "bootstrap-exercises",
+    "slug": "tailwind-exercises",
     "title": {
-        "us": "Learn Bootstrap from Zero",
-        "es": "Tutorial para Aprender Bootstrap desde Cero"
+        "us": "Learn Tailwind CSS from Zero",
+        "es": "Tutorial para Aprender Tailwind CSS desde Cero"
     },
     "description": {
-        "us": "Master Bootstrap with practical exercises on grid systems, navigation bars, hero sections, and more. Learn to apply Bootstrap styles to your HTML elements, use popular rules and tricks, and build responsive, modern, and visually appealing websites efficiently.",
-        "es": "Domina Bootstrap con ejercicios prácticos sobre sistemas de cuadrícula, barras de navegación, secciones hero y más. Aprende a aplicar estilos de Bootstrap a tus elementos HTML, usa reglas y trucos populares, y crea sitios web responsivos, modernos y visualmente atractivos de manera eficiente."
+        "us": "Master Tailwind CSS with practical exercises on utility-first styling, responsive design, flexbox layouts, and more. Learn to apply Tailwind utility classes to your HTML elements, use popular patterns and techniques, and build responsive, modern, and visually appealing websites efficiently.",
+        "es": "Domina Tailwind CSS con ejercicios prácticos sobre utilidades CSS, diseño responsivo, layouts flexbox y más. Aprende a aplicar clases de utilidad de Tailwind a tus elementos HTML, usa patrones y técnicas populares, y crea sitios web responsivos, modernos y visualmente atractivos de manera eficiente."
     },
-    "repository": "https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial",
+    "repository": "https://github.com/4GeeksAcademy/tailwind-exercises-tutorial",
     "duration": 5,
-    "preview": "https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial/blob/master/preview.png?raw=true",
+    "preview": "https://github.com/4GeeksAcademy/tailwind-exercises-tutorial/blob/master/preview.png?raw=true",
     "difficulty": "easy",
-    "technolgies": ["bootstrap", "html", "css"],
+    "technolgies": ["tailwindcss", "html", "css"],
     "videoSolutions": false,
     "projectType": "tutorial",
     "autoPlay": "true",
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
     "telemetry": {
-        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=144"
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=145"
     },
     "editor": {
         "version": "5.0",

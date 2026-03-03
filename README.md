@@ -1,9 +1,9 @@
-# Bootstrap Exercises Tutorial at 4Geeks Academy
+# Tailwind CSS Exercises Tutorial at 4Geeks Academy
 <!-- hide -->
 
 <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
 <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-<a href="https://gitpod.io#https://github.com/4GeeksAcademy/bootstrap-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
+<a href="https://gitpod.io#https://github.com/4GeeksAcademy/tailwind-exercises-tutorial.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
 
 Hi! I'm Alejandro Sanchez @alesanchezr, I'm thrilled to have you here! 🎉 😂 Learning to code is hard; you need coaching! DM me on Twitter if you have any question. You'll be learning the following concepts:
 
@@ -11,15 +11,15 @@ Hi! I'm Alejandro Sanchez @alesanchezr, I'm thrilled to have you here! 🎉 😂
 
 ## You'll be learning the following concepts:
 
-1. How to apply Bootstrap to your website.
+1. How to apply Tailwind CSS to your website.
 
-2. Selecting HTML Elements from your website to apply the Bootstrap styles.
+2. Selecting HTML Elements from your website to apply Tailwind utility classes.
 
-3. Apply Bootstrap classes to those elements.
+3. Apply Tailwind utility classes to those elements.
 
-4. Use the most popular Bootstrap rules.
+4. Use the most popular Tailwind utility patterns.
 
-5. Learn the most popular Bootstrap tricks.
+5. Learn responsive design with Tailwind.
 
 <!-- hide -->
 #### Before we start... other related tutorials
@@ -28,14 +28,14 @@ Hi! I'm Alejandro Sanchez @alesanchezr, I'm thrilled to have you here! 🎉 😂
   <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML Forms</a></li>
   <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">Learn CSS</a></li>
   <li><a href="https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises">Learn CSS Layouts</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Learn Bootstrap</a>← 🔥 You are here now</li>
+  <li><a href="https://github.com/4GeeksAcademy/tailwind-exercises-tutorial">Learn Tailwind CSS</a>← 🔥 You are here now</li>
 </ol>
-Complete selection of autograded CSS exercises, anyone interested in learning CSS!
+Complete selection of autograded Tailwind CSS exercises, anyone interested in learning Tailwind!
 
 
 ## One click installation (recommended):
 
-You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/bootstrap-exercises-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial.git).
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/tailwind-exercises-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/tailwind-exercises-tutorial.git).
 
 > Once you have VSCode open, the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
@@ -53,8 +53,8 @@ $ learnpack plugins:install learnpack-html
 2. Download these particular exercises using LearnPack and `cd` into the folder:
 
 ```bash
-$ learnpack download bootstrap-exercises-tutorial
-$ cd bootstrap-exercises-tutorial
+$ learnpack download tailwind-exercises-tutorial
+$ cd tailwind-exercises-tutorial
 ```
 
 > Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
