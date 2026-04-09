@@ -1,12 +1,53 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width" />
-        <script src="https://cdn.tailwindcss.com"></script>
-        <title>07 Tailwind Buttons, Alert and Table</title>
-    </head>
-    <body>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<script src="https://cdn.tailwindcss.com"></script>
+		<title>07 Tailwind Buttons, Alert and Table</title>
+	</head>
+	<body>
+		<div class="w-full p-6">
+			<div class="flex gap-6">
+				<div class="w-1/2">
+					<h5 class="text-lg font-semibold mb-2">Buttons and alerts</h5>
+					<p class="text-gray-700 mb-4">Use utility classes to build consistent UI patterns quickly.</p>
+					<button class="bg-green-600 text-white px-4 py-2 mr-2">Accept</button>
+					<button class="bg-red-600 text-white px-4 py-2">Decline</button>
+				</div>
 
-    </body>
+				<div class="w-1/2">
+					<div class="bg-yellow-100 border border-yellow-300 text-yellow-800 px-4 py-3 mb-4">
+						Warning: Please review the latest updates before continuing.
+					</div>
+
+					<table class="w-full border border-gray-300">
+						<thead>
+							<tr class="bg-gray-100">
+								<th class="text-left p-2 border">Name</th>
+								<th class="text-left p-2 border">Role</th>
+								<th class="text-left p-2 border">Status</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="p-2 border">Alice</td>
+								<td class="p-2 border">Developer</td>
+								<td class="p-2 border">Active</td>
+							</tr>
+							<tr>
+								<td class="p-2 border">Bob</td>
+								<td class="p-2 border">Designer</td>
+								<td class="p-2 border">Active</td>
+							</tr>
+							<tr>
+								<td class="p-2 border">Total</td>
+								<td class="p-2 border" colspan="2">2 members</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
